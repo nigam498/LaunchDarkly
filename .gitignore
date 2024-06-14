@@ -1,0 +1,15 @@
+.DS_Store
+.parcel-cache
+**/junit.xml
+npm-debug.log
+yarn-error.log
+node_modules
+dist
+lib
+.idea
+.vscode/
+test-types.js
+docs/build/
+yarn.lock
+package-lock.json
+.npmrc
